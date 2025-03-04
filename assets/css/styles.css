@@ -555,6 +555,7 @@ img {
   border-radius: var(--radius);
   font-size: var(--smaller-font-size);
   margin-bottom: 1.25rem;
+  color:black;
 }
 
 .submit {
